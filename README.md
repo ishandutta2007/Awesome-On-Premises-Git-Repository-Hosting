@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-On-Premises-Git-Repository-Hosting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-On-Premises-Git-Repository-Hosting?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-On-Premises-Git-Repository-Hosting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-On-Premises-Git-Repository-Hosting?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-On-Premises-Git-Repository-Hosting/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-On-Premises-Git-Repository-Hosting?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-On-Premises-Git-Repository-Hosting/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -57,57 +57,57 @@ The leading commercial Git hosting solutions for enterprise self-managed, VPC, a
 
 ## ⚡ Open-Source GitHub Projects
 
-*Sorted by GitHub Star count in descending order.*
+*Sorted by GitHub Stars_Count in descending order.*
 
-- **[Gitea](https://github.com/go-gitea/gitea)** [![GitHub stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers)  
+- **[Gitea](https://github.com/go-gitea/gitea)** [![GitHub_Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers)  
   ☕ The leading lightweight open-source Git forge (MIT). Shipped as a single Go binary with a built-in web UI, issue tracking, pull requests, wikis, package registry, and Gitea Actions (GitHub Actions-compatible CI). Idles at ~100MB RAM—the lightest full-featured option with minimal operational overhead.
 
-- **[Gogs](https://github.com/gogs/gogs)** [![GitHub stars](https://img.shields.io/github/stars/gogs/gogs?style=social&color=white)](https://github.com/gogs/gogs/stargazers)  
+- **[Gogs](https://github.com/gogs/gogs)** [![GitHub_Stars](https://img.shields.io/github/stars/gogs/gogs?style=social&color=white)](https://github.com/gogs/gogs/stargazers)  
   ⚡ A painless, self-hosted Git service written in Go (MIT). Extremely lightweight and cross-platform with minimal resource consumption, providing core repository management, issue tracking, and web interface.
 
-- **[GitLab (Self-Managed Free)](https://github.com/gitlabhq/gitlabhq)** [![GitHub stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=social&color=white)](https://github.com/gitlabhq/gitlabhq/stargazers)  
+- **[GitLab (Self-Managed Free)](https://github.com/gitlabhq/gitlabhq)** [![GitHub_Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=social&color=white)](https://github.com/gitlabhq/gitlabhq/stargazers)  
   🦊 The open-source core of GitLab (MIT for community edition code). Provides comprehensive source code management, code reviews, merge requests, issue tracking, and integrated CI/CD pipelines in a complete DevOps lifecycle platform.
 
-- **[OneDev](https://github.com/theonedev/onedev)** [![GitHub stars](https://img.shields.io/github/stars/theonedev/onedev?style=social&color=white)](https://github.com/theonedev/onedev/stargazers)  
+- **[OneDev](https://github.com/theonedev/onedev)** [![GitHub_Stars](https://img.shields.io/github/stars/theonedev/onedev?style=social&color=white)](https://github.com/theonedev/onedev/stargazers)  
   🛠️ An all-in-one open-source DevOps platform and Git server (MIT). Features GUI-friendly CI/CD build pipelines with Kubernetes/Docker support, deep code intelligence (symbol search and outline navigation), pull requests, and custom issue boards.
 
-- **[GitBucket](https://github.com/gitbucket/gitbucket)** [![GitHub stars](https://img.shields.io/github/stars/gitbucket/gitbucket?style=social&color=white)](https://github.com/gitbucket/gitbucket/stargazers)  
+- **[GitBucket](https://github.com/gitbucket/gitbucket)** [![GitHub_Stars](https://img.shields.io/github/stars/gitbucket/gitbucket?style=social&color=white)](https://github.com/gitbucket/gitbucket/stargazers)  
   ☕ A GitHub clone powered by Scala and JVM (Apache 2.0). Provides a highly compatible GitHub-like UI and API, repository viewer, issues, pull requests, wiki, and plugin architecture, easily distributable as a single runnable WAR/Java file.
 
-- **[Gitolite](https://github.com/sitaramc/gitolite)** [![GitHub stars](https://img.shields.io/github/stars/sitaramc/gitolite?style=social&color=white)](https://github.com/sitaramc/gitolite/stargazers)  
+- **[Gitolite](https://github.com/sitaramc/gitolite)** [![GitHub_Stars](https://img.shields.io/github/stars/sitaramc/gitolite?style=social&color=white)](https://github.com/sitaramc/gitolite/stargazers)  
   🔒 An extremely mature, lightweight access control layer on top of bare Git (GPL-2.0). Provides fine-grained access control down to branch and tag level over SSH without the overhead of a web server or database.
 
-- **[Soft Serve](https://github.com/charmbracelet/soft-serve)** [![GitHub stars](https://img.shields.io/github/stars/charmbracelet/soft-serve?style=social&color=white)](https://github.com/charmbracelet/soft-serve/stargazers)  
+- **[Soft Serve](https://github.com/charmbracelet/soft-serve)** [![GitHub_Stars](https://img.shields.io/github/stars/charmbracelet/soft-serve?style=social&color=white)](https://github.com/charmbracelet/soft-serve/stargazers)  
   🍦 A mighty, self-hostable Git server designed for the command line (MIT). Built by Charmbracelet with SSH-based interactive TUI menus, access control via SSH keys, web UI/TUI browsing, and Git LFS support.
 
-- **[GitList](https://github.com/klaussilveira/gitlist)** [![GitHub stars](https://img.shields.io/github/stars/klaussilveira/gitlist?style=social&color=white)](https://github.com/klaussilveira/gitlist/stargazers)  
+- **[GitList](https://github.com/klaussilveira/gitlist)** [![GitHub_Stars](https://img.shields.io/github/stars/klaussilveira/gitlist?style=social&color=white)](https://github.com/klaussilveira/gitlist/stargazers)  
   🐘 An elegant, modern Git repository viewer written in PHP (BSD-3-Clause). Allows browsing repositories, commit logs, file history, diffs, and trees with zero database requirements.
 
-- **[CodeFever Community Edition](https://github.com/PGYER/codefever)** [![GitHub stars](https://img.shields.io/github/stars/PGYER/codefever?style=social&color=white)](https://github.com/PGYER/codefever/stargazers)  
+- **[CodeFever Community Edition](https://github.com/PGYER/codefever)** [![GitHub_Stars](https://img.shields.io/github/stars/PGYER/codefever?style=social&color=white)](https://github.com/PGYER/codefever/stargazers)  
   🔥 A complete open-source self-hosted Git service platform (MIT). Features high performance, code hosting, code review, branch protection, and single-command deployment with Docker.
 
-- **[Gitblit](https://github.com/gitblit-org/gitblit)** [![GitHub stars](https://img.shields.io/github/stars/gitblit-org/gitblit?style=social&color=white)](https://github.com/gitblit-org/gitblit/stargazers)  
+- **[Gitblit](https://github.com/gitblit-org/gitblit)** [![GitHub_Stars](https://img.shields.io/github/stars/gitblit-org/gitblit?style=social&color=white)](https://github.com/gitblit-org/gitblit/stargazers)  
   ☕ An open-source, pure Java stack for managing, viewing, and serving Git repositories (Apache 2.0). Operates as a standalone server or WAR file with integrated user management, access control, tickets, and federation.
 
-- **[Bonobo Git Server](https://github.com/jakubgarfield/Bonobo-Git-Server)** [![GitHub stars](https://img.shields.io/github/stars/jakubgarfield/Bonobo-Git-Server?style=social&color=white)](https://github.com/jakubgarfield/Bonobo-Git-Server/stargazers)  
+- **[Bonobo Git Server](https://github.com/jakubgarfield/Bonobo-Git-Server)** [![GitHub_Stars](https://img.shields.io/github/stars/jakubgarfield/Bonobo-Git-Server?style=social&color=white)](https://github.com/jakubgarfield/Bonobo-Git-Server/stargazers)  
   🪟 A dedicated self-hosted Git server for Windows environments (MIT). Built on ASP.NET MVC and IIS, offering web-based repository management, user/team permissions, and Active Directory integration.
 
-- **[Gerrit Code Review](https://github.com/GerritCodeReview/gerrit)** [![GitHub stars](https://img.shields.io/github/stars/GerritCodeReview/gerrit?style=social&color=white)](https://github.com/GerritCodeReview/gerrit/stargazers)  
+- **[Gerrit Code Review](https://github.com/GerritCodeReview/gerrit)** [![GitHub_Stars](https://img.shields.io/github/stars/GerritCodeReview/gerrit?style=social&color=white)](https://github.com/GerritCodeReview/gerrit/stargazers)  
   🔍 The industry standard for rigorous, review-first Git workflows (Apache 2.0). Enforces formal change-based code review before merge with fine-grained ACL permissions and continuous integration verification.
 
-- **[GitPrep](https://github.com/yuki-kimoto/gitprep)** [![GitHub stars](https://img.shields.io/github/stars/yuki-kimoto/gitprep?style=social&color=white)](https://github.com/yuki-kimoto/gitprep/stargazers)  
+- **[GitPrep](https://github.com/yuki-kimoto/gitprep)** [![GitHub_Stars](https://img.shields.io/github/stars/yuki-kimoto/gitprep?style=social&color=white)](https://github.com/yuki-kimoto/gitprep/stargazers)  
   🐪 A portable GitHub clone written in Perl (Artistic License 2.0). Features an easy zero-configuration setup, web interface, pull requests, issue tracking, and repository permissions without requiring separate database engines.
 
-- **[klaus](https://github.com/jonashaag/klaus)** [![GitHub stars](https://img.shields.io/github/stars/jonashaag/klaus?style=social&color=white)](https://github.com/jonashaag/klaus/stargazers)  
+- **[klaus](https://github.com/jonashaag/klaus)** [![GitHub_Stars](https://img.shields.io/github/stars/jonashaag/klaus?style=social&color=white)](https://github.com/jonashaag/klaus/stargazers)  
   🐍 A zero-configuration, minimalist Git web viewer written in Python (Flask) under the ISC license. Offers syntax highlighting, commit history, blame views, and markdown rendering with simple WSGI/Docker deployment.
 
-- **[Pagure](https://github.com/Pagure/pagure)** [![GitHub stars](https://img.shields.io/github/stars/Pagure/pagure?style=social&color=white)](https://github.com/Pagure/pagure/stargazers)  
+- **[Pagure](https://github.com/Pagure/pagure)** [![GitHub_Stars](https://img.shields.io/github/stars/Pagure/pagure?style=social&color=white)](https://github.com/Pagure/pagure/stargazers)  
   🎩 A lightweight, fully open-source Git-centric forge written in Python (GPLv2+), developed by the Fedora Community. Offers issue tracking, pull requests, docs, and git-backed metadata storage.
 
-- **[Apache Allura](https://github.com/apache/allura)** [![GitHub stars](https://img.shields.io/github/stars/apache/allura?style=social&color=white)](https://github.com/apache/allura/stargazers)  
+- **[Apache Allura](https://github.com/apache/allura)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/allura?style=social&color=white)](https://github.com/apache/allura/stargazers)  
   🪶 An open-source software forge platform (Apache 2.0) managing Git repositories, SVN, Mercurial, issue tracking, markdown wikis, forums, and discussion spaces.
 
-- **[RhodeCode Community Edition](https://github.com/rhodecode/rhodecode-enterprise-ce)** [![GitHub stars](https://img.shields.io/github/stars/rhodecode/rhodecode-enterprise-ce?style=social&color=white)](https://github.com/rhodecode/rhodecode-enterprise-ce/stargazers)  
+- **[RhodeCode Community Edition](https://github.com/rhodecode/rhodecode-enterprise-ce)** [![GitHub_Stars](https://img.shields.io/github/stars/rhodecode/rhodecode-enterprise-ce?style=social&color=white)](https://github.com/rhodecode/rhodecode-enterprise-ce/stargazers)  
   🛡️ Enterprise-grade Git and Mercurial repository management platform. Features unified code review, pull request dependencies, and fine-grained repository access controls.
 
 **💡 Architecture & Deployment Guidance**:
